@@ -1,11 +1,11 @@
 
-# Guilherme Merces
+# Eai Tudo Bem
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0025fa&size=35&color=0025fa&center=true&vCenter=true&width=1000&lines=Ola+Tudo+Bem.;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0025fa&size=35&color=0025fa&center=true&vCenter=true&width=1000&lines=Me+Chamo+Guilherme;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 ## Sobre mim
 
-Terminando Facudade de analise e desenvolvimento de sistemas e  Estudando a linguagem de programação Java.
+ Formado em analise e desenvolvimento de sistemas, Estudando a linguagem de programação Java.
 
 ## 	Conecte-se comigo
 
@@ -27,5 +27,4 @@ Terminando Facudade de analise e desenvolvimento de sistemas e  Estudando a ling
 
 
 ## 	GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhenry&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0025fa&text_color=FFF)![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilhenry&layout=compact&bg_color=000&border_color=30A3DC&title_color=0025fa&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilhenry&layout=compact&bg_color=000&border_color=30A3DC&title_color=0025fa&text_color=FFF)
